@@ -3,6 +3,7 @@ Title: Feature Selection and Machine Learning Methods for Optimal Identification
 i)	 Feature extraction method (FEA)
 
 Principle Component Analysis (PCA)
+
 ii)	Clustering algorithm 
 
 KMeans algorithm 
