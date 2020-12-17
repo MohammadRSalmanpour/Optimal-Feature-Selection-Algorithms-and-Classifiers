@@ -32,3 +32,5 @@ iv)	Classifier algorithms (CA)
 ; 8) MLP_BPC (Multilayer Perceptron Back Propagation Classifier) 
 ; and 9) RFC (Random Forest Classifier) 
 
+
+AUTHOR(S): Mohammad Reza Salmanpour Paeen Afrakati and Arman Rahmim STATEMENT: This files are parts of clustering task for Parkinson disease. Package by Mohammad Reza Salmanpour and Arman Rahmim. --> Copyright (C) 2020 Mohammad Reza Salmanpour ,Amirkabir University of Technology (Tehran Polytechnic)& University of British coulumbia, BC Cancer recearch center Agency All rights reserved for Mohammadreza Salmanpourpaeenafrakati and Arman Rahmim. This package is distributed in the hope that it will be useful, Any feedback welcome!!! m.salmanpoor66@gmail.com, msalman@bccrc.ca, msalman@phas.ubc.ca, mohamad91@aut.ac.ir, First email always works for me.
