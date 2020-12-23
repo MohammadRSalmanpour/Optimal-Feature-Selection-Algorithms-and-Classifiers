@@ -2,7 +2,7 @@
 Title: Feature Selection and Machine Learning Methods for Optimal Identification and Prediction of Subtypes in Parkinson’s Disease
 
 Data:
-We employed 981 features including multiple Movement Disorder Society’s Unified Parkinson's Disease Rating Scale (MDS-UPDRS) measures, a range of task/exam performances, socioeconomic/family histories, genetic features, and SPECT image based radiomics features. We also considered a table as dictionary at the end of "name of features" file.
+We employed 981 features (listed in "name of features" file) including multiple Movement Disorder Society’s Unified Parkinson's Disease Rating Scale (MDS-UPDRS) measures, a range of task/exam performances, socioeconomic/family histories, genetic features, and SPECT image based radiomics features. We also considered a table as dictionary at the end of "name of features" file.
 
 i)	 Feature extraction method (FEA)
 
